@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "8edbcc15-a738-421d-83c5-7de8cb019263.jpeg",
+    "speaker_name": "Evan You",
+    "founder_of": "Vue.js & X-Icons"
+  },
+  {
+    "id": 2,
+    "image": "a89e7f26-5d34-44f0-9c24-3e83d61d67c1.jpeg",
+    "speaker_name": "Matt",
+    "founder_of": "Laravel"
+  },
+  {
+    "id": 3,
+    "image": "2e2f2c52-7a79-4e68-88dd-4685effa34fc.jpeg",
+    "speaker_name": "Elon Musk",
+    "founder_of": "Founder of Tesla"
+  },
+  {
+    "id": 4,
+    "image": "203cc2aa-6cff-4fa3-928f-bf6faedc33be.jpeg",
+    "speaker_name": "Akbar Ahmadjonov",
+    "founder_of": "TechPro - Software development"
+  },
+  {
+    "id": 5,
+    "image": "6bbf1ee0-e5ba-4c35-b9b5-686f9eb81bbf.jpeg",
+    "speaker_name": "Akbar Ahmadjonov",
+    "founder_of": "TechPro - Software development"
+  }
+]
